@@ -1,0 +1,15 @@
+body { margin: 0; line-height: 1.7em; font-size: 13px; font-family: Helvetica, sans-serif; outline: 0; font-style: normal; text-shadow: 0 0 1px rgba(0, 0, 0, 0.2); }
+
+a {
+	text-decoration: none;
+}
+img {
+	vertical-align: middle;
+}
+.trust-badge-bottom {
+	overflow: hidden;
+	white-space: nowrap;
+	color: #58585a;
+	text-align: center;
+	line-height: 1.4em;
+}
