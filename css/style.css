@@ -1879,3 +1879,6 @@ select:-webkit-autofill:focus {
             filter: blur(0);
 }
 
+#quickplan {
+    padding-bottom: 40px;
+}
